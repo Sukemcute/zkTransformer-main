@@ -6,7 +6,7 @@
 #include <mutex>
 #include <condition_variable>
 #include <thread>         // std::thread
-#include <mcl/bn256.hpp>
+#include <mcl/bn.hpp>
 #include "typedef.hpp"
 #include "timer.hpp"
 using namespace std;
